@@ -64,7 +64,8 @@ border-radius: 20%;
 height: 40vh;
 }
 .skill-logo{
-    height: 6rem;
+    height: 10%;
+    width: 10%;
 }
 .skills{
     background-color: black;
