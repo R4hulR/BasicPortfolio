@@ -122,3 +122,9 @@ height: 40vh;
     display: inline-block;
     cursor: pointer;
 }
+a:link{
+    color:white;
+}
+a:visited{
+    color: whitesmoke;
+}
