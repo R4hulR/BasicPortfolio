@@ -69,7 +69,7 @@ height: 40vh;
 }
 .skills{
     background-color: black;
-    height: 10rem;
+    /* height: 10rem; */
 }
 .logo2{
     display: flex;
