@@ -116,8 +116,9 @@ height: 40vh;
     font-size: 1em;
     border: none;
     font-weight: 600;
+    margin: 1%;
     padding: 0.2em;
     border-radius: 0.3em;
     display: inline-block;
-
+    cursor: pointer;
 }
