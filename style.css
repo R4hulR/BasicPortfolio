@@ -92,10 +92,11 @@ height: 40vh;
 }
 .project-name{
     font-family: 'Staatliches', cursive;
+    font-size: small;
 }
 .project-description{
     font-family: sans-serif;
-    font-size: small;
+    font-size: x-small;
 }
 .myproject{
     background-color: black;
